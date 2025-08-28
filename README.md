@@ -20,4 +20,4 @@ git clone https://github.com/subhcal/CustomDataType-Co-ord-Geo.git
 
 ## Screenshot
 
-![Just a Simple Use Case](Screenshot(3).png) 
+![Just a Simple Use Case](Screenshot (3).png) 
