@@ -16,4 +16,4 @@ This repository contains a custom Python class `Coordinate` that represents poin
 To use the `Coordinate` class, simply clone this repository or download the `CoGeo.py` file.
 
 ```bash
-git clone https://github.com/yourusername/CustomDataType-Co-ord-Geo.git
+git clone https://github.com/subhcal/CustomDataType-Co-ord-Geo.git
