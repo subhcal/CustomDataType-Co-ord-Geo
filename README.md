@@ -18,5 +18,5 @@ To use the `Coordinate` class, simply clone this repository or download the `CoG
 ```bash
 git clone https://github.com/subhcal/CustomDataType-Co-ord-Geo.git
 
-
-![Just a Simple Use Case](Screenshot (3).png) 
+## Screenshot of Usecase__ 
+![Tableau Dashboard Screenshot](Screenshot%20(3).png)
