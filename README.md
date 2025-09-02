@@ -11,6 +11,9 @@ This repository contains a custom Python class `Coordinate` that represents poin
 - Calculate the slope between two points.
 - Check for equality and inequality between points.
 
+## Screenshot of Usecase__ 
+![Tableau Dashboard Screenshot](Screenshot%20(3).png)
+
 ## Installation
 
 To use the `Coordinate` class, simply clone this repository or download the `CoGeo.py` file.
@@ -18,5 +21,3 @@ To use the `Coordinate` class, simply clone this repository or download the `CoG
 ```bash
 git clone https://github.com/subhcal/CustomDataType-Co-ord-Geo.git
 
-## Screenshot of Usecase__ 
-![Tableau Dashboard Screenshot](Screenshot%20(3).png)
